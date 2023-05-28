@@ -1,0 +1,7 @@
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\bin\Debug\Jatek_Vizsgara.exe.config
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\bin\Debug\Jatek_Vizsgara.exe
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\bin\Debug\Jatek_Vizsgara.pdb
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\obj\Debug\Jatek_Vizsgara.csproj.AssemblyReference.cache
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\obj\Debug\Jatek_Vizsgara.csproj.CoreCompileInputs.cache
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\obj\Debug\Jatek_Vizsgara.exe
+C:\Users\vighm\source\repos\Jatek_Vizsgara\Jatek_Vizsgara\obj\Debug\Jatek_Vizsgara.pdb
